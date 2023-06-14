@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Kutayeen
-- 👀 I’m interested in anime, Natural Language Processing and other software stuff
-- 🌱 I’m currently learning Engineering Management Master's degree
-- 💞️ I’m looking to collaborate on Open A.I. GPT NLP Model 
-- 📫 How to reach me at kutayeen@gmail.com
-
-<!---
-Kutayeen/Kutayeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a computer scientist with a passion for developing innovative solutions to complex problems. I have a
+strong background in software engineering, machine learning, and artificial intelligence, and am interested in
+natural language processing. I am an excellent communicator and team player and am always looking for
+ways to improve the efficiency and effectiveness of my work. I am an active member of the computer science
+community and am always eager to share my knowledge and experience with others.
